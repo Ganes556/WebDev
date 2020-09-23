@@ -1,0 +1,43 @@
+Tag HEAD boleh ada tag:
+	<title></title>
+	<style></style>
+	<script></script>
+-metadata =  <meta></meta> -> ini untuk info2x website / untuk search engine
+
+Tag yang ada di body banyak:
+- teks
+	<h1>,<h2>,dll
+- pendukung teks
+	<br>,<hr>,<em>,dll
+- gambar
+	<img>
+- hyperlink
+	<a>
+- list (bullet & number)
+	<ul>,<ol>,<li>,dll
+- table
+	<table>, <thead>, dll
+- form
+	<form>, dll
+- script
+	<script></script>
+- object
+	<object>
+- grouping
+	<div>, <span>
+- komentar
+	<!-- ini komentar. -->
+
+* struktur tag
+	<namatag atribut="nilai">
+		contoh: <body bgcolor="lightblue">
+			<body bgcolor="lightblue", id="test",class="test1">
+
+	atribut global:
+		- accesskey
+		- class
+		- dir
+		- lang
+		- style
+		- tabindex
+		- title
